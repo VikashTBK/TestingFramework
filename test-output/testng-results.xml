@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="306" started-at="2023-06-15T08:25:58Z" finished-at="2023-06-15T08:25:59Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="306" started-at="2023-06-15T08:25:58Z" finished-at="2023-06-15T08:25:59Z">
+      <class name="org.dataProvider.ParallelExecution">
+        <test-method status="PASS" signature="tc01()[pri:0, instance:org.dataProvider.ParallelExecution@4f638935]" name="tc01" duration-ms="19" started-at="2023-06-15T13:55:59Z" finished-at="2023-06-15T13:55:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc03()[pri:0, instance:org.dataProvider.ParallelExecution@4f638935]" name="tc03" duration-ms="19" started-at="2023-06-15T13:55:59Z" finished-at="2023-06-15T13:55:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc03 -->
+        <test-method status="PASS" signature="tc04()[pri:0, instance:org.dataProvider.ParallelExecution@4f638935]" name="tc04" duration-ms="19" started-at="2023-06-15T13:55:59Z" finished-at="2023-06-15T13:55:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc04 -->
+        <test-method status="PASS" signature="tc05()[pri:0, instance:org.dataProvider.ParallelExecution@4f638935]" name="tc05" duration-ms="19" started-at="2023-06-15T13:55:59Z" finished-at="2023-06-15T13:55:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc05 -->
+        <test-method status="PASS" signature="tc02()[pri:0, instance:org.dataProvider.ParallelExecution@4f638935]" name="tc02" duration-ms="19" started-at="2023-06-15T13:55:59Z" finished-at="2023-06-15T13:55:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02 -->
+      </class> <!-- org.dataProvider.ParallelExecution -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
